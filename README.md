@@ -1,13 +1,15 @@
-# TikTok Appilot Warmup & Engagement Bot
+# TikTok Promote Tool
 
 > ADB-based TikTok mobile automation engine for controlled multi-account workflows on real Android devices.
 
 [![Demo](https://img.shields.io/badge/Watch-Demo_Video-FF0000?logo=youtube&logoColor=white)](https://youtu.be/n1X45I_F1gU)
 [![Powered by Appilot](https://img.shields.io/badge/Powered_by-Appilot-5B5BD6)](https://www.appilot.app/)
 
+[![TikTok Promote Tool by Appilot](docs/images/appilot-banner.svg)](https://www.appilot.app/)
+
 ## Overview
 
-This project delivers a modular Android automation engine that coordinates authorized TikTok account warmup, engagement, proxy configuration, and post-link collection through ADB and device-level UI interaction.
+This TikTok promote tool coordinates authorized account warmup, engagement, network configuration, and post-link collection through ADB and device-level UI interaction.
 
 The engine runs accounts sequentially on connected Android devices, exposes configurable action profiles, records execution results, and supports recovery from common device or UI failures.
 
@@ -17,7 +19,7 @@ The engine runs accounts sequentially on connected Android devices, exposes conf
 - Coordinate multiple accounts per device through isolated, scheduled sessions.
 - Rotate configured network profiles between account sessions.
 - Collect post URLs for reporting and downstream workflows.
-- Deliver a tested, deployable codebase with clear operational documentation.
+- Deliver a tested, deployable automation workflow with clear operational controls.
 
 ## Core capabilities
 
@@ -76,16 +78,6 @@ flowchart TD
 
 ## Demo
 
-Watch the [TikTok Appilot warmup and engagement bot demo](https://youtu.be/n1X45I_F1gU).
+Watch the [TikTok promote tool demo](https://youtu.be/n1X45I_F1gU).
 
-## Appilot
-
-Built with the real-device automation capabilities of [Appilot](https://www.appilot.app/).
-
-## Responsible use
-
-Use this project only on accounts and devices you are authorized to manage. Configure all workflows to comply with applicable laws and TikTok's terms, rate limits, and community policies.
-
-## Topics
-
-`tiktok-promote-tool` · `tiktok-automation` · `android-automation` · `adb` · `uiautomator` · `device-automation` · `proxy-rotation` · `appilot`
+Explore real-device automation at [Appilot](https://www.appilot.app/).
