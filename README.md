@@ -44,27 +44,27 @@ flowchart TD
 
 ### Workflow settings
 
-![Workflow settings](docs/images/workflow-settings.png)
+![Workflow settings](docs/images/workflow-settings.jpg)
 
 ### Schedule and device assignment
 
-![Schedule and device assignment](docs/images/schedule-device-assignment.png)
+![Schedule and device assignment](docs/images/schedule-device-assignment.jpg)
 
 ### ADB device connection
 
-![ADB device connection](docs/images/adb-device-connection.png)
+![ADB device connection](docs/images/adb-device-connection.jpg)
 
 ### Automated TikTok session
 
-![Automated TikTok session](docs/images/automated-tiktok-session.png)
+![Automated TikTok session](docs/images/automated-tiktok-session.jpg)
 
 ### Account switching
 
-![Account switching](docs/images/account-switching.png)
+![Account switching](docs/images/account-switching.jpg)
 
 ### Comment input workflow
 
-![Comment input workflow](docs/images/comment-input-workflow.png)
+![Comment input workflow](docs/images/comment-input-workflow.jpg)
 
 ## Workflow
 
